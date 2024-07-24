@@ -22,8 +22,10 @@ Skills:
 * Storyblok, Squidex
 
 Work:
-Currently, I am working for Bright
+
+Currently, I am working for Brights 
 
 Contact :
+
 LinkedIn https://www.linkedin.com/in/olha-sylevych
 email: sylevycholha@gmail.com
